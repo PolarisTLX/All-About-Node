@@ -1,0 +1,22 @@
+{
+  "name": "qrgen",
+  "version": "1.0.0",
+  "description": "this app will generate QRCodes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolarisTLX/All-About-Node.git"
+  },
+  "author": "Paul Rail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolarisTLX/All-About-Node/issues"
+  },
+  "homepage": "https://github.com/PolarisTLX/All-About-Node#readme",
+  "dependencies": {
+    "qr-image": "^3.2.0"
+  }
+}
